@@ -1,2 +1,2 @@
 # Technical-Publications
-IoT Design and Development Platform for Real-Time Systems
+Application notes on IoT Design and Development Platforms for Real-Time Systems
